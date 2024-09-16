@@ -1,3 +1,4 @@
 {
-  "livePreview.defaultPreviewPath": "/blog/te-houtaewa-template.html"
+  "livePreview.defaultPreviewPath": "/blog/te-houtaewa-template.html",
+  "liveServer.settings.port": 5501
 }
