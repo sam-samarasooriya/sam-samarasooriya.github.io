@@ -40,7 +40,7 @@ Main {
   background-image: url(../image/Home-image1.jpeg);
   background-repeat: no-repeat;
   background-size: cover
-  margin-left: 10px;
+  margin-left : 10px;
   margin-right:10px;
   float: center;
 }
@@ -67,4 +67,39 @@ bottom: 0;
   padding: 10px 0px;
   text-align: center;
   margin: 4px 2px;
+}
+
+.EQ-img1{
+  height: 320px;
+  width: 320px;
+  background-image: url(/image/EQ\ Pic1.png);
+  background-repeat: no-repeat;
+  background-size: cover
+  margin-left: 10px;
+  margin-right: 10px;
+  float: center;
+
+}
+
+.Neuro-img1{
+  height: 320px;
+  width: 320px;
+  background-image: url(/image/Neuro-img1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover
+  float:center
+  border: none
+
+}
+
+.cultural-img1{
+  height: 320;
+  width: 320;
+  margin: 10px;
+  background-image: url(/image/Cultural\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover
+  float:center
+  border: none
+
 }
